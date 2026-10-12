@@ -1,7 +1,7 @@
 __init__.py
 ===================
 
-Define the WG class which consists of ``Strip.C.WIRE_TE``, ``Strip.C.WIRE_TM``, ``Strip.O.WIRE_TE``, ``Strip.O.WIRE_TM``, ``Ridge.C.WIRE_TE``, ``Ridge.C.WIRE_TM``, ``Ridge.O.WIRE_TE``, ``Ridge.O.WIRE_TM``, ``SiN_strip.C.WIRE_TE``, ``SiN_strip.C.WIRE_TM``, ``SiN_strip.O.WIRE_TE`` and ``SiN_strip.O.WIRE_TM`` classes. For the towersemi_ph18mci PDK, the WG class additionally includes ``RidgeNitride.C.WIRE_TE``, ``RidgeNitride.C.WIRE_TM``, ``RidgeNitride.O.WIRE_TE`` and ``RidgeNitride.O.WIRE_TM``classes. The width of the waveguide is set here according to the parameters in ``constant.py`` file. **PhotoCAD** also supports CD bias control of the waveguide width. The CD bias setting can be implemented in ``strip.py``, ``ridge.py``, ``SiN_strip.py`` and ``ridgenitride.py``.
+Define the WG class which consists of ``Strip.C.WIRE_TE``, ``Strip.C.WIRE_TM``, ``Strip.O.WIRE_TE``, ``Strip.O.WIRE_TM``, ``Ridge.C.WIRE_TE``, ``Ridge.C.WIRE_TM``, ``Ridge.O.WIRE_TE``, ``Ridge.O.WIRE_TM``, ``SiN_strip.C.WIRE_TE``, ``SiN_strip.C.WIRE_TM``, ``SiN_strip.O.WIRE_TE`` and ``SiN_strip.O.WIRE_TM`` classes. For the towersemi_ph18mci PDK, the WG class additionally includes ``RidgeNitride.C.WIRE_TE``, ``RidgeNitride.C.WIRE_TM``, ``RidgeNitride.O.WIRE_TE`` and ``RidgeNitride.O.WIRE_TM`` classes. The width of the waveguide is set here according to the parameters in ``constant.py`` file. **PhotoCAD** also supports CD bias control of the waveguide width. The CD bias setting can be implemented in ``strip.py``, ``ridge.py``, ``SiN_strip.py`` and ``ridgenitride.py``.
 
 .. table:: Waveguide Type Table
 
