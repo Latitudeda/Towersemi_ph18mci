@@ -24,7 +24,7 @@ Enter the project name and path, select ``towersemi_ph18mci`` in the PDK column,
 
 .. image:: ../images/ASDL_5.png
 
-Wait for the contents of ``Import towersemi_ph18mch PDK symbols succeeded`` to appear in the output.
+Wait for the contents of ``Import towersemi_ph18mci PDK symbols succeeded`` to appear in the output.
 
 .. image:: ../images/ASDL_6.png
 
